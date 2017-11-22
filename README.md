@@ -1,5 +1,34 @@
 # ifocoin
+
 ifocoin is the real bitcoin，ethereum and EOS.
+
+# ifocoin is an extensible framework for blockchain projects
+
+ifocoin gives you a beneficial opportunity to build decentralized, secure and reliable applications. It is designed to allow you, your company or your government to build a tailor-cut private or permissioned blockchain that solves your challenges and enjoys the unmatched security of the Bitcoin Blockchain.
+
+ifocoin brings all the advantages of a true blockchain — auditability, transparency, and unparalleled security — and combines them with privacy, efficiency and controllability.
+
+Your next step to blockchain is here. And it is called ifocoin.
+
+# BFT Algorithm
+
+ifocoin's Byzantine Fault Tolerant consensus algorithm excludes single points of failure and makes blockchain resilient to nodes crashes or bad actors.
+
+# Light client
+
+All received information is validated on the client side with the help of ifocoin light client, securing clients against MitM attacks.
+
+# Anchoring
+
+Anchoring data to Bitcoin network protects ifocoin against history revisions by leveraging the tremendous security of the Bitcoin Blockchain.
+
+# Rust
+
+To achieve top-notch level of security, performance and concurrency ifocoin uses Rust programming language in its core.
+
+# our team
+ifocoin is developed and supported by the ifochain Group. ifocoin is the direct result of extensive research and testing by our elite team of the best-in-class mathematicians, scientists, developers and analysts coming together to create and support this inimitable platform.
+
 
 Awesome Blockchain
 ==================
