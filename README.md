@@ -1,2 +1,2 @@
 # ifocoin
-ifocoin is real bitcoin.
+ifocoin is the real bitcoin，ethereum and EOS.
